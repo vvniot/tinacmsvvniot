@@ -28,6 +28,10 @@
         {
           "document": "docs/tutorial-basics/congratulations.mdx",
           "_template": "doc"
+        },
+        {
+          "document": "docs/tutorial-basics/Nhi-ku.mdx",
+          "_template": "doc"
         }
       ],
       "_template": "category"
